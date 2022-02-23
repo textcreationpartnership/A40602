@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true relation of two very remarkable tryals at the quarter-sessions of the peace for the city and liberty of Westminster held in the great hall, on Monday the third of October, and ending the eleventh of the same : the one, for scandalous words, by one Shippon : the other, of a priest in the gate-house, for spoiling a girl of nine years old / by way of letter to a friend.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40602</idno>
+            <idno type="STC">Wing F2337</idno>
+            <idno type="STC">ESTC R38899</idno>
+            <idno type="EEBO-CITATION">18186857</idno>
+            <idno type="OCLC">ocm 18186857</idno>
+            <idno type="VID">106965</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106965)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1123:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true relation of two very remarkable tryals at the quarter-sessions of the peace for the city and liberty of Westminster held in the great hall, on Monday the third of October, and ending the eleventh of the same : the one, for scandalous words, by one Shippon : the other, of a priest in the gate-house, for spoiling a girl of nine years old / by way of letter to a friend.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. H. and T.F.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: I am, &amp;c.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained with print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  England --  Controversial literature.</term>
+               <term>Trials (Slander) --  England --  Early works to 1800.</term>
+               <term>Trials (Child sexual abuse) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:106965:1" rendition="simple:additions"/>
+            <head>A Full and True Relation Of Two very Remarkable Tryals AT THE Quarter-Seſsions OF THE PEACE For the CITY and LIBERTY of WESTMINSTER Held in the Great Hall, on <hi>Monday</hi> the Third of <hi>October,</hi> and ending the Eleventh of the ſame. The one, for Scandalous Words, by one <hi>Shippon:</hi> The other, of a Prieſt in the <hi>Gate-houſe,</hi> for Spoiling a Girl of Nine Years old.
+<hi>By Way of Letter to a Friend.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IT is not long ſince you deſired of me an account of our Juſtices and their proceedings; which I ſhould have ſooner returned you, but that the ſhortneſs of time, and a quiet peaceable Age gave me ſmall opportunity to do it. For though when Sr. <hi>W.</hi> was in Commiſſion, and ſo extraordi<g ref="char:EOLhyphen"/>nary Active, we had ſome cauſe to fear: yet now (thank God) we are very well at eaſe, every man enjoying his own morſel, and not ſo much as having a fear left one of another. But we muſt ever own our reſpects and love to him for
+<pb n="2" facs="tcp:106965:2"/>his diligent care of us, and owe the preſent eaſe and ſafety that we enjoy, to him as the original cauſe of it. For ſince his time, the Papiſts amongſt us, are either fled out of the Nation, or their number ſo few, that we cannot ſee them; the Prieſts and Jeſuits moſt or all (we hope) ſecured; ſo that we have great cauſe to rejoice over our Enemies now more than ever, being big with the expectation of a happy iſſue from theſe Troubles, by the approaching Par<g ref="char:EOLhyphen"/>liament, whom God direct for the good proſperity of our King, Religion, Laws, Liberties, and the general Welfare of the Nation.</p>
+            <p>But Sir, I muſt acquaint you, that our Juſtices do upon all occaſions ſhew themſelves Men and Gentlemen; though we have not had ſo much cauſe of action as formerly; however we are ſatisfied, they are men of unſpotted Re<g ref="char:EOLhyphen"/>putation and Credit, ſuch as will hazard their Lives and Fortunes for the maintainance and preſervation of their Prince, and Religion too; I mean the Church of <hi>England</hi> eſtabliſhed by Law. And I will give you a brief ac<g ref="char:EOLhyphen"/>count of Two remarkable Tryals before them; the firſt on <hi>Monday</hi> laſt, the other on <hi>Saturday</hi> following.</p>
+            <p>An Indictment was brought againſt one <hi>Philip Shippon,</hi> a Servant to the Earl of <hi>Shrewsbury,</hi> for very ſcandalous and opprobrious words ſpoke by him in <hi>February</hi> laſt; which I'le repeat as I heard them ſworn to in Court, <hi>That Dr.</hi> Oates <hi>and Mr.</hi> Bedlow <hi>were great Rogues, and Perjured Rogues, that</hi> Dugdale <hi>was a great Rogue, and had cheated his Lord and Maſter my Lord</hi> Aſhton <hi>of a Thouſand Pounds; That there was no Plot; That he heard my Lord</hi> Shrewsbury <hi>ſay, that the King told him, he did not believe there was any Plot againſt his Life and Government by the Papiſts; That His Majeſty did believe, the Jeſuits and others that ſuffered dyed wrongfully, which He ſuffered only to pleaſe ſome diſcontented Lords of the Council, but was reſolved no more ſhould ſuffer for the Plot.</hi> Theſe words were ſworn to by Mr. <hi>Bol<g ref="char:EOLhyphen"/>dron</hi> and Mr. <hi>Mowbray,</hi> though Mr. <hi>Boldron</hi>'s Mother and Wife added to the former part of them their Teſtimony, that the ſaid <hi>Shippon</hi> did often abuſe the King's Evidence, and talk down the Plot. He pleaded <hi>Not Guilty,</hi> and brought one or two Witneſſes, who offered to prove it to be Mr. <hi>Boldron</hi>'s Malice and Deſign againſt him: But the Proof was plain, and Sr. <hi>Francis Wi<g ref="char:EOLhyphen"/>thens</hi> Steward of <hi>Weſtminſter</hi> and Chair-man to the Bench gave ſuch clear di<g ref="char:EOLhyphen"/>rections to the Jury, and withal ſuch Content and Satisfaction to the Court and Priſoner, that he hath no cauſe to complain. The Jury found him <hi>Guilty</hi> without going from the Bar: and the next day he was brought for his Sentence, where they paſt a Fine of 500. Marks upon him, Impriſonment till it be paid, and to find Sureties for his Behaviour one Twelve Moneths.</p>
+            <p>Now Sir, I muſt obſerve the great Impudence this Fellow had at his Try<g ref="char:EOLhyphen"/>al; who was as bold and unconcerned, as if he had had 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> given him, ſcarcely forbearing to laugh all the while. And alſo it is worth our while, to Note the great ſubtilty theſe Raſcalls have to father ſuch words upon our Prince, who is moſt in danger by the Plot; which they do on purpoſe to create Jealouſies and Fears, and divide the hearts of his people from him. They that think it no Sin to deſtroy him and us, no doubt think it none to abuſe and ſeparate us. But God above we hope will ſettle and ſtrengthen our Love and Duty to Him more and more, that being well united, we may reſolve to deſtroy the Devil and all his Agents, the Papiſts from amongſt us root and branch; and let every good Proteſtant ſay <hi>Amen.</hi>
+            </p>
+            <pb n="3" facs="tcp:106965:2"/>
+            <p>Now Sir, I muſt beg your pardon, being come to a very foul caſe; which becauſe of the preſident ſake, though filthy; I will wrap up as clean as I can, not to hide the material Circumſtances and Truth from you.</p>
+            <p>On <hi>Wedneſday</hi> laſt an Indictment was brought againſt one <hi>Dowdel</hi> alias <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> alias <hi>Johnſon,</hi> a Prieſt and Priſoner in the <hi>Gate-houſe;</hi> for an aſſault up<g ref="char:EOLhyphen"/>on the body of one  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  
+               <hi>Biſhop,</hi> a Girl of Nine or Ten Years of age, with an intent to have Raviſh't her, whoſe Mother was formerly Priſoner there, the Girl going often to the Priſoner to carry ſuch things as he had occaſion for: But the Court being ready to riſe, and the Tryal ſeeming long, they ad<g ref="char:EOLhyphen"/>journed themſelves till <hi>Saturday:</hi> and on <hi>Saturday</hi> he was brought and the Girl in Court. The Girl in Court ſwore againſt him; That in <hi>Auguſt</hi> laſt he uſed to kiſs her, to take her on his knee, and to give her Sugared Beer, ſome<g ref="char:EOLhyphen"/>times to put his Tongue in her Mouth, and his hands up her Coats; that he hurt her once with his Finger, which made her cry; and then to pleaſe her, gave her Two Groats: and that a Week after he took her in like manner up<g ref="char:EOLhyphen"/>on his Knee, and after he had kiſſed her a while, he threw her upon his Bed (having made his Door faſt with a Stick) fell upon her, pull'd up her Coats; and hurt her with ſomething, inſomuch that ſhe cryed out; but he ſtopt her mouth with the Bed-cloaths, and hurt her the more, till ſhe ſtrugling got hold of his Laced Cuffs and tore them, and alſo dirted his Silk Coat with her feet, at which he let her alone, but kiſſed her and bidding her be quiet, <hi>&amp;c.</hi> took a ſhilling and gave her; and when ſhe had done crying, ſent her home. The Child being aſhamed, and not thinking of any harm, ſaid nothing, till her Mother found out that the lower parts of her Belly were in a Weeks time grown ſo ſore, that ſhe could not ſit down; and withal, ſhe is perfectly Bur<g ref="char:EOLhyphen"/>ſten: And then upon her Mothers enquiring ſhe confeſt the matter, and had half a dozen Midwives to inſpect the thing: who all came and made Oath of the Truth of it, and the ſad condition the Girl was in (except one of Mrs. <hi>Cel<g ref="char:EOLhyphen"/>liers</hi> acquaintance) who ſaid, That it was only a ſwelling which might come from her going up and down ſtairs, <hi>&amp;c.</hi> Moreover Mr. <hi>Church</hi> did confeſs he had a ſtick to make faſt his door: Another woman, that ſhe ſaw the Girl come down with a ſhilling or ſuch a piece in her hand one day. The Keeper alſo affirmed, he would not let the Girl go up ſo often, and the ſaid <hi>Dowdel</hi> deſired it of him, ſaying he had buſineſs to do. It was alſo ſworn, that he ſent two perſons to bribe the Girls Parents to put it up: That her Father be<g ref="char:EOLhyphen"/>ing drunk, ſaid he would do it for Forty Pound; but <hi>Dowdel</hi> ſaid Ten Pound was enough: That he ſent others afterward to tell them he would give no<g ref="char:EOLhyphen"/>thing, that he did not value them of a farthing, <hi>&amp;c.</hi> To this he pleaded <hi>Not Guilty:</hi> Being asked if he would challenge of the Jury, he anſwered like an Iriſh <hi>St. Omer, Me like dem well, they be all honeſt men.</hi> Being asked, if ever he uſed to kiſs the Girl and ſet her upon his knee; he anſwered <hi>Yes my Lor the chile be ſo pretty and do twenty pretty tings make me laugh a hundred times.</hi> Being asked if ever he gave her money, he ſaid, <hi>My Lord that be my Charitee, when her Mother bee in Priſſon, I tooke her to eat half my dinner, and I ſay this bee pretty Shile, I had love for the Shile and gave her any ting I had: ſhe uſe to come often for my Charitee.</hi> But amongſt the reſt of his diſcourſe he owned the matter in effect in theſe words, which happened about entring her body, he ſaid, <hi>Me enter her dis far,</hi> pointing his finger to the Court. He brought one or two to ſpeak in his behalf, and would have laid
+<pb n="4" facs="tcp:106965:3"/>it upon malice, as his friend <hi>Shippon</hi> before did. But the Caſe though never ſo foul, was clear enough that he did aſſault her body, for which he was In<g ref="char:EOLhyphen"/>dicted, and by the Jury immediately found <hi>Guilty.</hi>
+            </p>
+            <p>Though Sir, you have here a Preſident of a very ſtrange and prodigious Crime committed by a Popiſh Prieſt, yet he had not altogether ſo much Im<g ref="char:EOLhyphen"/>pudence to deny it, as ſome others: For he was very well ſatisfied with his Le<g ref="char:EOLhyphen"/>gal Tryal; and accordingly thanked both the Bench and Jury that they had permitted him ſuch fairneſs and freedom to have cleared himſelf, if there had been cauſe for it.</p>
+            <p>On <hi>Monday</hi> the 11th Inſtant he was brought again to receive the Judgement of the Court, which was, To pay a Fine of 500. Marks, to continue in Pri<g ref="char:EOLhyphen"/>ſon till it be paid, and to give good Security for his Behaviour during Life: and further, the Court ordered him to be turned over to the <hi>Old Bayley,</hi> there to be Tryed as a Prieſt.</p>
+            <p>I have nothing more to add Sir, but to deſire your excuſe for the length of this; and to pray, that all the reſt of theſe evil workers may be brought to equal ſhame and condign puniſhment by the hands of Juſtice.</p>
+            <closer>
+               <signed>
+                  <hi>I am,</hi> &amp;c.</signed>
+               <dateline>
+                  <hi>Weſtminſter,</hi> 
+                  <date>
+                     <hi>Octob.</hi> 11. 1680.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>W. H.</hi> and <hi>T. F.</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
